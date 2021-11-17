@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.exe
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.deps.json
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.dll
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\bin\Debug\netcoreapp3.1\CreateTITpe.pdb
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.dll
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.pdb
+C:\Users\opilane\source\repos\TITpe21\CreateTITpe\CreateTITpe\obj\Debug\netcoreapp3.1\CreateTITpe.genruntimeconfig.cache
